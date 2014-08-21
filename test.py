@@ -1,11 +1,11 @@
-import os,sys
+import os
 
 print "OK"
 
 
+def OK():
+    return "OK"
 
 
-def OK (): return "OK"
 def two():
-    print "yeah"#ugly code
-
+    print "yeah"  # ugly code
